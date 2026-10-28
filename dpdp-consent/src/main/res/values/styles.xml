@@ -1,0 +1,11 @@
+<resources>
+    <style name="DPDPConsentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorPrimary">#0F67DE</item>
+        <item name="android:colorPrimaryDark">#0F67DE</item>
+        <item name="android:colorAccent">#0F67DE</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#0F67DE</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>
